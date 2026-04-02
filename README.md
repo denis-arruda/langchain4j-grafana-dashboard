@@ -1,2 +1,1 @@
-# langchain4j-grafana-dashboard
-Grafana dashboard for langchain4j observability
+# Grafana dashboard for LangChain4j observability
